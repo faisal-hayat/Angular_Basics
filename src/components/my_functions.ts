@@ -37,5 +37,10 @@ function sumNumbers(...numbers: number[]): number {
 
 // assign default values to it
 function defaultVals(a: number, b: number = 10, c?: number | undefined) {
-    return a + b + c;
+    return c ? a + b + c : a + b;
+}
+
+// Generic functions in typescript. type is declared at runtime
+function getItems<T>(items: T[]): T[] {
+    return new Array<T>().concat(items);
 }
