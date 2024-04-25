@@ -33,5 +33,6 @@
 ## Topics to be covered
 
 - reduce function in typescript
+- OOP in angular
 
 --- ---
