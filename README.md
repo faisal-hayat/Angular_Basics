@@ -29,3 +29,9 @@
 - **_ts_** is superset of **_js_**  
 
 --- ---
+
+## Topics to be covered
+
+- reduce function in typescript
+
+--- ---
