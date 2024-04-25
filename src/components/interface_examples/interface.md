@@ -1,0 +1,5 @@
+# Interfaces in Typescript
+
+--- ---
+
+--- ---
