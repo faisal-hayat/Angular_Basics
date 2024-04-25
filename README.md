@@ -36,3 +36,9 @@
 - OOP in angular
 
 --- ---
+
+## Interview Questions
+
+- When to use classes and when to use interfaces?
+
+--- ---
